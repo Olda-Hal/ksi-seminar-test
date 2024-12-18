@@ -14,3 +14,12 @@ print(is_odd(3))  # True
 print(is_odd(4))  # False
 print(is_odd(5))  # True
 ```
+
+```~csharp
+// this is an example c# code
+
+public static void main(){
+
+    Debug.WriteLine("test");
+}
+```
